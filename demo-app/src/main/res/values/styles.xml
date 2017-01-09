@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="pacv_placesAutoCompleteTextViewStyle">@android:style/Widget.Material.EditText</item>
+    </style>
+
+</resources>
